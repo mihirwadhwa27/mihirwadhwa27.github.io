@@ -10,7 +10,6 @@ main-image: /Gliders.png
 
 
 # Low Cost Gliders
-!(/gliders.png)
 ---
 ## Motive
 We (group project) wanted to create a project that would allow us to showcase our passion for physics and engineering. We decided to make low cost gliders out of foamboard and dowels that were held together with PLA mounts that could slide along the dowel to demonstrate Center of Mass and Center of Lift
