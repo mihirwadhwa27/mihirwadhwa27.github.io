@@ -16,7 +16,7 @@ name: Mihir Wadhwa
 headline: Student Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Student engineer at Wheeler Magnet in Marietta Georgia. Current FRC 1002 Mechanical lead and Wheeler Students in Space secretary.
-  Skilled in Prototyping.
+  Skilled in Prototyping and a really quick learner.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -55,7 +55,6 @@ skills:
     - FDM
     - Manual Machining
     - Laser Cutting
-    - Water Jet Cutting
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
   - category: PCB Design
@@ -64,6 +63,9 @@ skills:
   - category: Problem Solving / Risk Management
     tools:
     - Gantt
+  - category: Programming
+    tools:
+    - Python
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
