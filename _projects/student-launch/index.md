@@ -9,7 +9,7 @@ skills:
 - KiCad
 - ESP32
 - PCB design
-main-image: /pxl_20251004_233039853.jpg
+main-image: /image.png
 ---
 # Objective/Background
 The goal of this competition was to create a payload for the Georgia Tech Rambling Rockets Club. We decided on modyfing a open-source cosmic ray detector for our project. This would have measured the point at which cosmic rays decay into Muons in the atmosphere.
