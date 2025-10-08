@@ -7,11 +7,11 @@ skills:
 - Woodworking
 main-image: /Top collection.jpg
 ---
-## Thought process and objective
-I wanted to familiarize myself with wood turning, and also wanted to create gifts for a teacher's child.
+## Thought Process and Objective
+We wanted to learn the fundamentals of wood turning while creating a meaningful project. I decided to make spinning tops as gifts for a teacher’s child. The project also served as an opportunity to explore how shape, mass distribution, and surface finish affect spin performance.
 ## Constraints
-We had 2 weeks to create and measure the performance of various top designs, our goal was to reach at least 1 min of spin time. We also exclusively used materials found inside of the classroom. 
+We had two weeks to design, manufacture, and test a series of tops using only materials found in the classroom workshop. Our performance goal was to achieve a minimum spin time of one minute.
 ## Results
-We created 8 tops of various sizes and shapes in order to optimize some for ease of spinning and others for endurance. 
-## My contributions
-I spun all the tops on the lathe successfully. I assisted in the design of the tops based on prior experience spinning the tops.
+We produced eight tops of varying sizes, weights, and profiles to test the effects of geometry on spin duration and ease of use. The testing phase helped identify the balance point and shape combinations that resulted in the longest spins.
+## My Contributions
+I machined all eight tops on the wood-lathe, ensuring conncentricity and smooth finishes. I also helped refine the designs using feedback from spin tests to improve both stability and endurance.
