@@ -19,6 +19,7 @@ I am the mechanical lead for FRC 1002. As part of this, I lead a team of 30 stud
 - 2025 "Reefscape"
 - 2026 Coming soon
 
+
 ---
 ## Images
 {% include image-gallery.html images="img_5269_720.jpg" height="400" %} 
