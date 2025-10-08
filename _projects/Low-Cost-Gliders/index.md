@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Low Cost Gliders
-description:  Low-cost gliders for community outreach.
+description:  Low-cost gliders for community outreach as part of a school project.
 skills: 
 - FDM
 - Onshape
-- School
 main-image: /Gliders.png
 ---
 ## Motive
