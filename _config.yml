@@ -15,8 +15,8 @@ title: Mihir Wadhwa's Portfolio # This is what shows up in the tab of the browse
 name: Mihir Wadhwa
 headline: Student Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Student engineer at Wheeler Magnet in Marietta Georgia. Current FRC 1002 Mechanical lead and Wheeler Students in Space secretary.
-  Skilled in Prototyping and a really quick learner.
+  Student engineer at Wheeler Magnet in Marietta, Georgia. Current FRC 1002 Mechanical lead and Wheeler Students in Space secretary.
+  Skilled in prototyping, design, and rapid learning. Intrested in engineering, physics, and hands-on problem solving.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/pfp.jpg
@@ -66,6 +66,7 @@ skills:
   - category: Programming
     tools:
     - Python
+    - Learning Markdown
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
