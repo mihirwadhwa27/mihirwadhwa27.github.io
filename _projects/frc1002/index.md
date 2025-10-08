@@ -23,7 +23,7 @@ Being part of FRC has allowed me to **discover my passion** for mechanical engin
 ## Seasons competed
 - 2024 *Crescendo*
 - 2025 *Reefscape*
-- 2026 *Rebuilt*-Coming Soon
+- 2026 *Rebuilt* - Coming Soon
 
 
 ---
