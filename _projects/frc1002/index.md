@@ -10,10 +10,16 @@ skills:
 - Project Leadership
 main-image: /pxl_20251004_233039853.jpg
 ---
-I am the mechanical lead for FRC 1002. As part of this, I lead a team of 30 students in the mechanical/hardware aspects of the First Robotics Competiton. I have been the mechanical lead for the past 2 years. Being part of the team has allowed me to find others who enjoy similar hobbies as me and further my skills in machining and leader ship.
-## Duties
-#### I am responsible for the training of my subteam. I am also responsible for the safe operation of all tools used by my members.
----
+## Overview
+As the Mechanical Lead for FRC Team 1002, I oversee all mechanical and hardware systems for our competition robot. I manage a subteam of 30 students, coordinating the design, fabrication, and assembly processes while ensuring all operations meet safety standards and deadlines. This role has helped me refine my leadership, problem-solving, and machining skills through real-world engineering challenges.
+## Key Responsibilities
+Lead and train a 30-member mechanical subteam in machining, CAD design, and mechanical assembly.
+Supervise safe operation of all tools and machinery in the workshop.
+Coordinate mechanical integration with electrical and programming teams to ensure reliability.
+Oversee quality control, maintenance, and testing of all robot components before competition.
+Mentor new members to develop mechanical and teamwork skills, ensuring continuity of team knowledge.
+## Impact
+Being part of FRC has allowed me to discover my passion for mechanical engineering and leadership. Through the team, I’ve built lasting relationships with peers who share my interests, while advancing my technical and interpersonal abilities in a collaborative, high-pressure environment.
 ## Seasons competed
 - 2024 "Crescendo"
 - 2025 "Reefscape"
