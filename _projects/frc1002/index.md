@@ -21,9 +21,9 @@ Oversee quality control, maintenance, and testing of all robot components before
 ## Impact
 Being part of FRC has allowed me to **discover my passion** for mechanical engineering and leadership. Through the team, I’ve built lasting relationships with peers who share my interests, while advancing my technical and interpersonal abilities in a **collaborative, high-pressure environment.**
 ## Seasons competed
-- 2024 "Crescendo"
-- 2025 "Reefscape"
-- 2026 Coming soon
+- 2024 *Crescendo*
+- 2025 *Reefscape*
+- 2026 *Rebuilt*-Coming Soon
 
 
 ---
