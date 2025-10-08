@@ -5,6 +5,7 @@ description:  Low-cost gliders for community outreach.
 skills: 
 - FDM
 - Onshape
+- School
 main-image: /Gliders.png
 ---
 ## Motive
