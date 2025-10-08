@@ -46,7 +46,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape (Preffered)
+    - Onshape (Preferred software)
     - Fusion 360 (Autodesk)
     - Blender (for simple animations)
   - category: Prototyping
