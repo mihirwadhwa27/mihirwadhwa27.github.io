@@ -5,7 +5,7 @@ description:  Simple wooden tops to demonstrate wood turning proficency
 skills: 
 - Manual Machining
 - Woodworking
-main-image: /Gliders.png
+main-image: /Top collection.jpg
 ---
 ## Thought process and objective
 I wanted to familiarize myself with wood turning, and also wanted to create gifts for a teacher's child.
